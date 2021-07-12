@@ -8,5 +8,5 @@
 </p>
 <br>
 <hr>
-<p>example with out laravel:</p><a href> https://www.adamibnu.xyz/</a>
+<p>example with out laravel:</p> <p> https://www.adamibnu.xyz/ </p>
 
